@@ -49,7 +49,6 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblwelcomestudent = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.exitIcon)).BeginInit();
@@ -275,7 +274,6 @@
             this.panel3.AutoScroll = true;
             this.panel3.AutoScrollMargin = new System.Drawing.Size(0, 20);
             this.panel3.Controls.Add(this.dataGridView1);
-            this.panel3.Controls.Add(this.lblwelcomestudent);
             this.panel3.Location = new System.Drawing.Point(260, 42);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
@@ -327,17 +325,6 @@
             this.Column2.ReadOnly = true;
             this.Column2.Width = 125;
             // 
-            // lblwelcomestudent
-            // 
-            this.lblwelcomestudent.AutoSize = true;
-            this.lblwelcomestudent.Font = new System.Drawing.Font("Segoe UI Semibold", 14.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblwelcomestudent.Location = new System.Drawing.Point(32, 27);
-            this.lblwelcomestudent.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.lblwelcomestudent.Name = "lblwelcomestudent";
-            this.lblwelcomestudent.Size = new System.Drawing.Size(175, 25);
-            this.lblwelcomestudent.TabIndex = 14;
-            this.lblwelcomestudent.Text = "Welcome, Student!";
-            // 
             // AdmissionStatus
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -364,7 +351,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.picIconPay)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLogout)).EndInit();
             this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 
@@ -387,7 +373,6 @@
         private System.Windows.Forms.PictureBox picIconExamination;
         private System.Windows.Forms.PictureBox picIconAdmission;
         private System.Windows.Forms.PictureBox picIconApplication;
-        private System.Windows.Forms.Label lblwelcomestudent;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;

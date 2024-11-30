@@ -193,16 +193,16 @@
   </data>
   <data name="picIconExamination.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAHrSURBVGhD7ZpLTgJBFEVx4sgFkKjRbYjrw88KWIFuQFcg
-        AzUxik6cmggO3MQxlVRD96PxUZc87QEn6dCpeqf6Vn+gErrXCwI4Bq6B77xdAUe2rtMAB8CUZT6BfVvf
-        WYBRDn6TguftNreNbH0owC5wCXzVzmgp87MPHNrOAmbAecrUTLkGwIUdrZC7ljHHtqiQMzumSz4LiRPb
-        Z6mOYts91vWAQS6d2T6XdQ+SKKmtU+KV1DYoEataFTteGyW1DUrEDe/9pWepjarYtrvIYhByHlkMQs4j
-        i0HIeWQxCDmPLAYh55HFIOQ8shiEnEcWg5DzyKID8Ay8Af1aWx94Au6b1QvkPLLoALzmod/zBNKW9hNp
-        kjvWSch5ZNHBBE+f9f35VbLIeVaJwB7wUfWvwbhljPpkEr9OIlEV2naXVaIwkaVFYScmsimdubU2xXnY
-        J7a+Qs4jiw7AI/DS8vU7AR6a1QvkPLIYhJxHFoOQ88hiEHIeWQxCziOLQch5ZNFhu2hU88iiQ2d+2YW1
-        1nbRWKcqtO0usujQmVtrU5yHfbtoXIksBiHnkcUg5DyyGIScRxaDkPPIYhByHlkMQs4ji0HIeWr/sw9s
-        318DnOYsU9vnkl+Z6BpDm9Mlv4uSJlNdmf8kvWk0lN5F2fJP/AArySw98gP+wgAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        EQAACxEBf2RfkQAAAetJREFUaEPtmktOAkEURXHiyAWQqNFtiOvDzwpYgW5AVyADNTGKTpyaCA7cxDGV
+        VEP3o/FRlzztASfp0Kl6p/pWf6ASutcLAjgGroHvvF0BR7au0wAHwJRlPoF9W99ZgFEOfpOC5+02t41s
+        fSjALnAJfNXOaCnzsw8c2s4CZsB5ytRMuQbAhR2tkLuWMce2qJAzO6ZLPguJE9tnqY5i2z3W9YBBLp3Z
+        Ppd1D5Ioqa1T4pXUNigRq1oVO14bJbUNSsQN7/2lZ6mNqti2u8hiEHIeWQxCziOLQch5ZDEIOY8sBiHn
+        kcUg5DyyGIScRxaDkPPIogPwDLwB/VpbH3gC7pvVC+Q8sugAvOah3/ME0pb2E2mSO9ZJyHlk0cEET5/1
+        /flVssh5VonAHvBR9a/BuGWM+mQSv04iURXadpdVojCRpUVhJyayKZ25tTbFedgntr5CziOLDsAj8NLy
+        9TsBHprVC+Q8shiEnEcWg5DzyGIQch5ZDELOI4tByHlk0WG7aFTzyKJDZ37ZhbXWdtFYpyq07S6y6NCZ
+        W2tTnId9u2hciSwGIeeRxSDkPLIYhJxHFoOQ88hiEHIeWQxCziOLQch5av+zD2zfXwOc5ixT2+eSX5no
+        GkOb0yW/i5ImU12Z/yS9aTSU3kXZ8k/8ACvJLD3yA/7CAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="picIconPay.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
